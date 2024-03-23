@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.12.1)  23 MAR 2024 21:31
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.12.1)  23 MAR 2024 22:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -407,8 +407,7 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisruleclass=\count303
 \@lastruleclass=\count304
 \@thisrulewidth=\dimen192
-)
-No file preim.aux.
+) (./preim.aux)
 \openout1 = `preim.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
@@ -489,6 +488,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 4.
 Package hyperref Info: Link coloring OFF on input line 4.
+
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -503,6 +503,8 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 4.
 LaTeX Info: Redefining \pageref on input line 4.
 LaTeX Info: Redefining \nameref on input line 4.
+
+(./preim.out) (./preim.out)
 \@outlinefile=\write3
 \openout3 = `preim.out'.
 
@@ -511,30 +513,104 @@ LaTeX Info: Redefining \nameref on input line 4.
 Package hyperref Warning: Rerun to get /PageLabels entry.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.53937> on input line 8.
+(Font)              <10.53937> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 8.
+(Font)              <7> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 8.
-[1
+(Font)              <5> on input line 13.
+! Use of \@array doesn't match its definition.
+\@ifnextchar ... \reserved@d =#1\def \reserved@a {
+                                                  #2}\def \reserved@b {#3}\f...
+l.14     \toprule
+                 
+? y
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? 1
+<argument> \@BTrule 
+                    
+l.14     \toprule
+                 
+? 1
 
-] (./preim.aux)
+\@ifnextchar ...eserved@d =#1\def \reserved@a {#2}
+                                                  \def \reserved@b {#3}\futu...
+l.14     \toprule
+                 
+? 1
 
-Package rerunfilecheck Warning: File `preim.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
+\@ifnextchar ...ed@d =#1\def \reserved@a {#2}\def 
+                                                  \reserved@b {#3}\futurelet...
+l.14     \toprule
+                 
+? 1
 
-Package rerunfilecheck Info: Checksums for `preim.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  9E7BCFA9B3E2362993B994480AD04B72;136.
- ) 
-Here is how much of TeX's memory you used:
- 14011 strings out of 476191
- 315384 string characters out of 5812072
- 631737 words of memory out of 5000000
- 34586 multiletter control sequences out of 15000+600000
- 472329 words of font info for 53 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
- 89i,5n,97p,385b,330s stack positions out of 5000i,500n,10000p,200000b,80000s
+\@ifnextchar ... \reserved@a {#2}\def \reserved@b 
+                                                  {#3}\futurelet \@let@token...
+l.14     \toprule
+                 
+? 1
 
-Output written on preim.pdf (1 page).
+\@ifnextchar ...\reserved@a {#2}\def \reserved@b {
+                                                  #3}\futurelet \@let@token ...
+l.14     \toprule
+                 
+? 1
+<argument> \@BTrule 
+                    [\heavyrulewidth ]
+l.14     \toprule
+                 
+? 1
+<argument> \@BTrule [
+                     \heavyrulewidth ]
+l.14     \toprule
+                 
+? 1
+<argument> \@BTrule [\heavyrulewidth 
+                                     ]
+l.14     \toprule
+                 
+? 1
+<argument> \@BTrule [\heavyrulewidth ]
+                                      
+l.14     \toprule
+                 
+? 1
+
+\@ifnextchar ...served@a {#2}\def \reserved@b {#3}
+                                                  \futurelet \@let@token \@i...
+l.14     \toprule
+                 
+? 1
+
+\@ifnextchar ...2}\def \reserved@b {#3}\futurelet 
+                                                  \@let@token \@ifnch 
+l.14     \toprule
+                 
+? 1
+
+\@ifnextchar ...rved@b {#3}\futurelet \@let@token 
+                                                  \@ifnch 
+l.14     \toprule
+                 
+? 1
+
+\@ifnextchar ...#3}\futurelet \@let@token \@ifnch 
+                                                  
+l.14     \toprule
+                 
+? 1
+
+\@xexpast #1*#2#3#4\@@ ->\edef \reserved@a {#1}
+                                               \@tempcnta #2\relax \ifnum \@...
+l.14     \toprule
+                 
+? 1
+
+\@xexpast ...@ ->\edef \reserved@a {#1}\@tempcnta 
+                                                  #2\relax \ifnum \@tempcnta...
+l.14     \toprule
+     
