@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.12.1)  8 APR 2024 21:49
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.12.1)  26 APR 2024 19:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -441,7 +441,7 @@ LaTeX Font Info:    Trying to load font information for U+euf on input line 22.
 File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
 )
 LaTeX Font Info:    Font shape `TU/FandolSong-Regular(0)/m/sl' in size <10.53937> not available
-(Font)              Font shape `TU/FandolSong-Regular(0)/m/it' tried instead on input line 43.
+(Font)              Font shape `TU/FandolSong-Regular(0)/m/it' tried instead on input line 45.
  [1
 
 ] (./zemnu.aux)
@@ -451,7 +451,7 @@ Package rerunfilecheck Info: File `zemnu.out' has not changed.
 Here is how much of TeX's memory you used:
  14507 strings out of 476191
  321753 string characters out of 5812072
- 637014 words of memory out of 5000000
+ 638014 words of memory out of 5000000
  35055 multiletter control sequences out of 15000+600000
  474952 words of font info for 64 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
